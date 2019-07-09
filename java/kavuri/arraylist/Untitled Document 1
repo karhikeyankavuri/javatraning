@@ -1,0 +1,14 @@
+1.creating array list of string
+adding new element to arraylist
+adding an index to array element
+
+2.Creating an ArrayList from another collection
+
+    // Creating an ArrayList from another collection
+ // Adding an entire collection to an ArrayList
+
+3.Accessing elements from an ArrayList
+// Check if an ArrayList is empty
+ // Find the size of an ArrayList
+// Retrieve the element at a given index
+ // Modify the element at a given index
